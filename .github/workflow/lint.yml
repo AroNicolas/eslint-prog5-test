@@ -25,4 +25,4 @@
             run: npm install
 
           - name: Run ESLint
-            run: npx eslint . --ext .js,.jsx,.ts,.tsx
+            run: npx eslint .
